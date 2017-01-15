@@ -34,7 +34,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Catamaran, Helvetica, Arial, sans-serif;
+    font-family: 'Nunito', sans-serif, Helvetica, Arial, sans-serif;
     font-weight: 200;
     letter-spacing: 1px
 }
@@ -153,7 +153,7 @@ header {
     min-height: auto;
     overflow-y: hidden;
     background: url(../img/bg-pattern.png), #66E4FF;
-    background: url(../img/bg-pattern.png), -webkit-linear-gradient(#018FCE, #66E4FF);
+    background: url(../img/bg-pattern.png), -webkit-linear-gradient(#41C5F2, #66E4FF);
     background: url(../img/bg-pattern.png), linear-gradient(#018FCE, #66E4FF);
     color: #fff
 }
@@ -232,7 +232,7 @@ section.download {
 }
 section.download h2 {
     margin-top: 0;
-    font-size: 50px
+    font-size: 50px;
 }
 section.download .badges .badge-link {
     display: block;
@@ -250,7 +250,7 @@ section.download .badges .badge-link img {
         margin-bottom: 0
     }
     section.download h2 {
-        font-size: 70px
+        font-size: 50px
     }
 }
 section.features .section-heading {
@@ -386,8 +386,8 @@ footer ul li a:hover {
 }
 .bg-primary {
     background: #fffff;
-    background: -webkit-linear-gradient(#66e4ff, #ff00a8);
-    background: linear-gradient(#66e4ff, #ff00a8)
+    background: -webkit-linear-gradient(#66e4ff, #FF89FC);
+    background: linear-gradient(#66e4ff, #FF89FC)
 }
 
 .bg-secondary {

@@ -49,7 +49,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+  font-family: 'Nunito', sans-serif', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
 }
@@ -155,7 +155,7 @@ header {
   /* fallback for old browsers */
   background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #00BCD5, #018FCE);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #00BCD5, #018FCE);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #00BCD5, #41C5F2);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
 }
@@ -250,7 +250,7 @@ section.download .badges .badge-link img {
 }
 @media (min-width: 768px) {
   section.download h2 {
-    font-size: 70px;
+    font-size: 50px;
   }
 }
 section.features .section-heading {
@@ -393,8 +393,8 @@ footer ul li a.active {
 }
 .bg-primary {
   background: #018FCE;
-  background: -webkit-linear-gradient(#66e4ff, #ff00a8);
-  background: linear-gradient(#66e4ff, #ff00a8);
+  background: -webkit-linear-gradient(#66e4ff, #FF89FC);
+  background: linear-gradient(#66e4ff, #FF89FC);
 }
 
 .bg-secondary {
