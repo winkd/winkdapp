@@ -373,7 +373,7 @@ section.contact ul.list-social li.social-google-plus a:hover {
     background-color: #d73925
 }
 footer {
-    background-color: #222;
+    background-color: #018FCE;
 }
 footer p {
     margin: 0
@@ -445,4 +445,8 @@ img::-moz-selection {
 .image-social{
     width: 100px;
     height: 100px;
+}
+
+.text-center{
+    padding-top:100px;
 }
